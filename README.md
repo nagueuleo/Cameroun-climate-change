@@ -1,14 +1,15 @@
-# Accessing Meteorological Data from NASA's Power project
+# Accès au données métérologiques via l'application de la NASA
 
-Welcome to the official repository for the [tutorial video](https://youtu.be/IQq89Vdjqd0) on extracting meteorological data from NASA's power project website. In this tutorial, we'll guide you through manual and automated methods of accessing meteorological data, and preprocessing it.
+Pour bien recupérer les données voici le [tutoriel vidéo](https://youtu.be/IQq89Vdjqd0) pour extraire les données climatique de n'importe quel pays ou région.
 
-### Automated Retrieval
+### Récupération automatique
 
-Dive into automating data retrieval using API calls. Follow along as we guide you through parameter selection and how to dynamically used them in the API endpoint.
+Plongez dans l'automatisation de la récupération de données à l'aide d'appels d'API. Suivez-nous pendant que nous vous guidons dans la sélection des paramètres et dans leur utilisation dynamique dans le point de terminaison de l'API.
 
-## Requirements
+## Exigences
 
-To follow along with the tutorial, make sure you have the necessary dependencies installed. You can install them using the provided `requirements.txt` file:
+TPour suivre le tutoriel, assurez-vous d'avoir installé les dépendances nécessaires. Vous pouvez les installer à l'aide du fichier `requirements.txt` fourni :
 
 ```bash
 pip install -r requirements.txt
+
